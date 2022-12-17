@@ -136,6 +136,6 @@ while(continuar == "s"):
             print("")
 
 print("")
-print("Projeto UFPB \033[34m\033[1mCampus IV LCC\033[0m: introdução a programação, Feito por: Fernando Guilherme de Carvalho, Aline jesuino santos, Lucas Felipe Gomes Pedrosa")
+print("Projeto UFPB \033[34m\033[1mCampus IV LCC\033[0m: introdução a programação, Feito por: Lucas Felipe Gomes Pedrosa")
 print("Observação: l.c.c melhor que s.i!")
 print("")
